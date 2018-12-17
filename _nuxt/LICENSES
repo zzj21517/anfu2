@@ -49,3 +49,9 @@
  * @internal
  * @license Modernizr 3.0.0pre (Custom Build) | MIT
  */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
